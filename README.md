@@ -4,8 +4,15 @@
 <li>ASP.NET WEB APIs</li>
 <li>SQL Server Management Studio</li>
 
-<p> 
-Before Login; Home, Contact, Exchange Rates, Login/Register menus. 
 <br>
-After Login; Dashboard, Categories, Transactions menus.
-</p>
+<ul>
+  <li>Before Login; Home, Contact, Exchange Rates, Login/Register menus.</li> 
+  <li>After Login; Dashboard, Categories, Transactions menus.</li>
+</ul>
+
+
+<br>
+
+
+
+
